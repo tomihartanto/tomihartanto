@@ -2,12 +2,12 @@
 
 ### 👋 Hi, I'm Tomi Hartanto
 
-> *"Always be better than the day before"*
+> _"Always be better than the day before"_
 
 - 📍 Based in **Tangerang, Indonesia**
 - 🔭 Currently working on **Web Development**
 - 🌱 Exploring **AI Integration** & **Spring Framework**
-- 📫 Reach me at [tora.my.id](https://tora.my.id/)
+- 📫 Reach me at [tora.my.id](https://tomihartanto.my.id/)
 
 ---
 
@@ -26,13 +26,13 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Tovi App**](https://github.com/tomihartanto/tovi-app) | AI chatbot for travel recommendations, itinerary planning, and local culinary tips powered by Google Gemini API | Node.js, Express, Vanilla JS |
-| [**SIMS PPOB**](https://github.com/tomihartanto/sims_ppob) | Payment point online bank management system | JavaScript |
-| [**Belajar Spring Dasar**](https://github.com/tomihartanto/belajar-spring-dasar) | Spring Framework fundamentals & hands-on practice | Java, Spring |
-| [**Tracking Cuaca**](https://github.com/tomihartanto/tracking_cuaca) | Weather tracking application | C++ |
-| [**HealthyPet**](https://github.com/tomihartanto/healthypet) | Pet health monitoring app | C++ |
+| Project                                                                          | Description                                                                                                     | Tech                         |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [**Tovi App**](https://github.com/tomihartanto/tovi-app)                         | AI chatbot for travel recommendations, itinerary planning, and local culinary tips powered by Google Gemini API | Node.js, Express, Vanilla JS |
+| [**SIMS PPOB**](https://github.com/tomihartanto/sims_ppob)                       | Payment point online bank management system                                                                     | JavaScript                   |
+| [**Belajar Spring Dasar**](https://github.com/tomihartanto/belajar-spring-dasar) | Spring Framework fundamentals & hands-on practice                                                               | Java, Spring                 |
+| [**Tracking Cuaca**](https://github.com/tomihartanto/tracking_cuaca)             | Weather tracking application                                                                                    | C++                          |
+| [**HealthyPet**](https://github.com/tomihartanto/healthypet)                     | Pet health monitoring app                                                                                       | C++                          |
 
 ---
 
