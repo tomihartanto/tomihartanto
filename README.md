@@ -1,58 +1,60 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tomihartanto&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Tomi's GitHub Stats"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tomi+Hartanto!;" />
+</h1>
 
-### 👋 Hi, I'm Tomi Hartanto
+<h3 align="center">"Always be better than the day before"</h3>
 
-> _"Always be better than the day before"_
+<br/>
 
-- 📍 Based in **Tangerang, Indonesia**
-- 🔭 Currently working on **Web Development**
-- 🌱 Exploring **AI Integration** & **Spring Framework**
-- 📫 Reach me at [tora.my.id](https://tomihartanto.my.id/)
+<div align="center">
+ 
+ 🔭 I’m currently working on **Web Development**
+ 
+ 🌱 I’m currently learning **AI Integration** & **Spring Framework**
 
----
+💬 Ask me about **Node.js, Java, C++, ... or anything [here](https://github.com/tomihartanto/tomihartanto/issues)**
 
-### 🛠️ Tech Stack
+⚡ Fun fact **I think I am funny**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:tomihartanto.my.id@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://tomihartanto.my.id/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/tomihartanto/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
----
+<hr/>
 
-### 🚀 Featured Projects
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,java,spring,cpp,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,postman,figma" /><br>
+</div>
 
-| Project                                                                          | Description                                                                                                     | Tech                         |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [**Tovi App**](https://github.com/tomihartanto/tovi-app)                         | AI chatbot for travel recommendations, itinerary planning, and local culinary tips powered by Google Gemini API | Node.js, Express, Vanilla JS |
-| [**SIMS PPOB**](https://github.com/tomihartanto/sims_ppob)                       | Payment point online bank management system                                                                     | JavaScript                   |
-| [**Belajar Spring Dasar**](https://github.com/tomihartanto/belajar-spring-dasar) | Spring Framework fundamentals & hands-on practice                                                               | Java, Spring                 |
-| [**Tracking Cuaca**](https://github.com/tomihartanto/tracking_cuaca)             | Weather tracking application                                                                                    | C++                          |
-| [**HealthyPet**](https://github.com/tomihartanto/healthypet)                     | Pet health monitoring app                                                                                       | C++                          |
+<br/>
+<hr/>
 
----
+<h2 align="center">🔥 My Stats 🔥</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tomihartanto&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tomihartanto&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomihartanto&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### 🏆 GitHub Trophy
+<br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=tomihartanto&column=8&theme=radical&no-frame=true&no-bg=true"/>
-</a>
+<hr/>
 
----
-
-### 📊 Language & Activity
-
-<img align="left" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomihartanto&theme=radical&hide_border=true"/>
-<img align="right" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomihartanto&theme=radical&hide_border=true"/>
-
-<br clear="both"/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomihartanto&theme=radical&hide_border=true"/>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=tomihartanto&color=brightgreen&style=flat-square&label=PROFILE+VIEWS"/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
+</h3>
